@@ -590,7 +590,10 @@ namespace SDLauncher_UWP
 
         private void btnServer_Click(object sender, RoutedEventArgs e)
         {
-           _ = new ServerChooserDialog().ShowAsync();
+            // Changed because disregarding the diag causes an error with memory allocation
+            //_ = new ServerChooserDialog().ShowAsync(ContentDialogPlacement.Popup);
+
+            var serverDiag = new ServerChooserDialog().ShowAsync(ContentDialogPlacement.Popup);
         }
 
         private void navView_ItemInvoked(Microsoft.UI.Xaml.Controls.NavigationView sender, Microsoft.UI.Xaml.Controls.NavigationViewItemInvokedEventArgs args)
