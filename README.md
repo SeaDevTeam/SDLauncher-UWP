@@ -50,7 +50,7 @@ The image is from version ``0.3.6-uwp``
 <li>At least 4GB of RAM.</li>
 <li>Microsoft Edge Webview 2 runtime (For Microsoft login). You may have this on windows 11 and newer 10</li>
 <h1>Installation </h1>
-Goto <a href="https://github.com/Chaniru22/SDLauncher/releases/">releases</a> and download and extract the Package.7z (using 7zip or something).The details of nstalling appx package is available in description of the releases.
+Goto <a href="https://github.com/SeaDevTeam/SDLauncher/releases/">releases</a> and download and extract the Package.7z (using 7zip or something).The details of nstalling appx package is available in description of the releases.
 <br>
 
 <b>Note: This is in development!</b>
