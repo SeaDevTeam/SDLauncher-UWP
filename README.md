@@ -9,7 +9,7 @@ Based on CmlLib (https://github.com/CmlLib/CmlLib.Core)
 <br>
 <img src="https://user-images.githubusercontent.com/82730163/170818956-8c32d257-dbec-42d6-bf5d-f34103eeb006.png" />
 
-The image is from version 0.3.6-uwp
+The image is from version ``0.3.6-uwp``
 
 # Announcements & Our History 📢
 <h3>2022</h3>
@@ -50,7 +50,7 @@ The image is from version 0.3.6-uwp
 <li>At least 4GB of RAM.</li>
 <li>Microsoft Edge Webview 2 runtime (For Microsoft login). You may have this on windows 11 and newer 10</li>
 <h1>Installation </h1>
-Goto https://github.com/Chaniru22/SDLauncher/releases/ and download and run the setup that matches for your PC🖥 (x86,x64)
+Goto <a href="https://github.com/Chaniru22/SDLauncher/releases/">releases</a> and download and extract the Package.7z (using 7zip or something).The details of nstalling appx package is available in description of the releases.
 <br>
 
 <b>Note: This is in development!</b>
