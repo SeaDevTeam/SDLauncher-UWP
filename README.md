@@ -20,8 +20,6 @@ The image is from version 0.3.6-uwp
 
 
 # Features
-<h3> UWP version</h3>
-
 - [x] Theming (Backgrounds, Acrylic, Mica)
 - [x] Microsoft Login
 - [ ] Mojang Login (Expired)
@@ -39,18 +37,6 @@ The image is from version 0.3.6-uwp
 - [x] Glacier Client
 - [x] Optifine (Outdated for now)
 - [x] SD Store
-
-<h3> WPF version (achieved)</h3>
-
-- [x] Microsoft Login
-- [ ] Mojang Login (Expired)
-- [x] Offline Login
-- [x] Discord RPC
-- [x] Download/Install Minecraft any versions including snapshots
-- [x] Launch Minecraft
-- [ ] Forge (trying to make)
-- [x] Fabric
-- [x] Optifine
 
 
 <h3> Currently working on.. </h3>
